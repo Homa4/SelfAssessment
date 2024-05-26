@@ -11,7 +11,7 @@
   - Paradigm: 🎓 known 
   - Programm: 🎓 known 
   - Programming paradigm
-  - Programming language
+  - Programming language: 🖐 used
   - Contract
   - Module: 🖐 used 
   - Library
@@ -42,16 +42,16 @@
   - Heap: 🖐 used 
   - Function: 🖐 used 
   - Procedure
-  - Method
+  - Method: 🖐 used
   - Class: 🎓 known 
   - Prototype
   - Event
   - Type
-  - Flag
+  - Flag: 🖐 used
   - Lexical scope
   - Code block
-  - Conditions
-  - Loops
+  - Conditions: 🖐 used
+  - Loops: 🖐 used
   - Assignment
   - Regular expression
   - Interface
@@ -82,8 +82,8 @@
   - Contravariance
 - Functions
   - Signature
-  - Argument: 🎓 known 
-  - Parameter: 🎓 known 
+  - Argument: 🖐 used 
+  - Parameter: 🖐 used
   - Pure function
   - Lambda expression
   - Side effects
@@ -105,7 +105,7 @@
   - Generator
   - Coroutine
 - Data structures
-  - Array: 🎓 known 
+  - Array: 🖐 used
   - Structure
   - Record
   - Enum
@@ -114,15 +114,15 @@
   - Collection
   - Set
   - Hash table: 🎓 known
-  - Linked list: 🎓 known
+  - Linked list: 🖐 used
   - Doubly list: 🎓 known
   - Unrolled list: 🎓 known
   - Circular list: 🎓 known
-  - Queue: 🎓 known
-  - Stack: 🎓 known
+  - Queue: 🖐 used
+  - Stack: 🖐 used
   - Deque
   - Tree: 🎓 known
-  - Graph: 🎓 known
+  - Graph: 🖐 used
   - Iterator
   - Mutable state
   - Immutable state
@@ -135,8 +135,8 @@
   - DNS: 🎓 known
   - CDN
   - CORS
-  - IPv4: 🎓 known
-  - IPv6: 🎓 known
+  - IPv4: 🖐 used
+  - IPv6: 🖐 used
   - NAT
   - URL
   - URN
@@ -217,7 +217,7 @@
   - Linux
   - Unix
   - BSD
-  - MacOS
+  - MacOS: 🎓 known
   - Windows: 🖐 used 
   - Real-time OS
   - Embedded OS
