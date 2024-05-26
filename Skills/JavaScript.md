@@ -1,23 +1,22 @@
 ## JavaScript
 
-
 - Language
-  - `Object`: 🖐 used
-  - `Function`: 🖐 used
-  - `Boolean`: 🖐 used
-  - `Number`: 🖐 used
-  - `BigInt`: 🖐 used
-  - `String`: 🖐 used
-  - `Symbol`
-  - `Infinity`
-  - `NaN`
-  - `undefined`
-  - `null`
-  - `this`
-  - `instanceof`
-  - `...spread`: 🖐 used
-  - `...rest`: 🖐 used
-  - `typeof`: 🖐 used
+  - Object: 🖐 used
+  - Function: 🖐 used
+  - Boolean: 🖐 used
+  - Number: 🖐 used
+  - BigInt: 🖐 used
+  - String: 🖐 used
+  - Symbol
+  - Infinity
+  - NaN: 🎓 known
+  - undefined: 🎓 known
+  - null: 🎓 known
+  - this: 🖐 used
+  - instanceof
+  - ...spread: 🖐 used
+  - ...rest: 🖐 used
+  - typeof: 🖐 used
   - Destructuring
   - Generators
   - Iterators
@@ -27,30 +26,30 @@
   - Optional chaining
   - IIFE
   - Async IIFE
-  - `global`
-  - `globalThis`
-  - `window`
+  - global
+  - globalThis
+  - window
   - Getters and setters
-  - `__proto__`
-  - `prototype`
+  - __proto__
+  - prototype
   - Equality operators
   - Logical operators
   - Logical Assignment
   - Bitwise operators
   - Ternary operator
-  - `void`
-  - `yield`
-  - `await`
+  - void
+  - yield
+  - await
   - Template literal
   - Strict mode
   - Hoisting
-  - `delete`
-  - `in`
-  - `super`
-  - `eval`
-  - `static`
-  - `Number.parseInt`
-  - `Number.parseFloat`
+  - delete
+  - in: 🖐 used 
+  - super
+  - eval
+  - static
+  - Number.parseInt
+  - Number.parseFloat
   - Property descriptors
   - Sealing properties
   - Freezing properties
@@ -60,64 +59,64 @@
   - Private class fields
   - Private class methods
 - Statements
-  - `if`: 🖐 used
-  - `while`: 🖐 used
-  - `do..while`: 🎓 known
-  - `for`: 🖐 used
-  - `for..in`: 🖐 used
-  - `for..of`: 🖐 used
-  - `for await`
-  - `throw`
-  - `break`: 🎓 known
-  - `continue`
-  - `import`: 🖐 used
-  - `export`: 🖐 used
-  - `label`
-  - `try..catch`
-  - `switch`: 🎓 known
-  - `class`: 🎓 known
-  - `extends`: 🎓 known
-  - `with`: 🎓 known
-  - `new`
+  - if: 🖐 used
+  - while: 🖐 used
+  - do..while: 🖐 used
+  - for: 🖐 used
+  - for..in: 🖐 used
+  - for..of: 🖐 used
+  - for await
+  - throw
+  - break: 🖐 used
+  - continue
+  - import: 🖐 used
+  - export: 🖐 used
+  - label
+  - try..catch
+  - switch: 🖐 used
+  - class: 🖐 used
+  - extends: 🖐 used
+  - with: 🖐 used
+  - new: 🖐 used
 - Functions
-  - Arrow function
+  - Arrow function: 🖐 used
   - Async function
-  - Function declaration
-  - Function expression
-  - Default parameters
+  - Function declaration: 🖐 used
+  - Function expression: 🖐 used
+  - Default parameters: 🖐 used 
   - Functional object
-  - `Function.prototype.call`
-  - `Function.prototype.bind`
-  - `Function.prototype.apply`
-  - `return`
+  - Function.prototype.call
+  - Function.prototype.bind
+  - Function.prototype.apply
+  - return: 🖐 used 
 - Data structures
-  - `Array`: 🖐 used
-  - `Map`
-  - `Set`: 🖐 used
-  - `WeakMap`
-  - `WeakSet`
+  - Array: 🖐 used
+  - Map
+  - Set: 🖐 used
+  - WeakMap
+  - WeakSet
   - Typed arrays
   - Mixins
-  - `Object.assign`
+  - Object.assign
 - Standard classes and namespaces
-  - `Proxy`
-  - `RegExp`
-  - `Date`: 🖐 used
-  - `Math`: 🖐 used
-  - `Reflect`
-  - `Error`
-  - `Atomics`
-  - `JSON`
-  - `WeakRef`
-  - `FinalizationRegistry`
-  - `Intl`
-  - `Promise`
-  - `console`
+  - Proxy
+  - RegExp
+  - Date: 🖐 used
+  - Math: 🖐 used
+  - Reflect
+  - Error
+  - Atomics
+  - JSON
+  - WeakRef
+  - FinalizationRegistry
+  - Intl
+  - Promise
+  - console: 🖐 used 
   - Timers
 - Infrastructure
-  - V8
-  - Node.js: 🎓 known
-  - npm
+  - V8: 🖐 used
+  - Node.js: 🖐 used
+  - npm: 🎓 known
   - prettier
   - MDN
   - TC39
