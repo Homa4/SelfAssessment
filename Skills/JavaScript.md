@@ -1,12 +1,13 @@
 ## JavaScript
 
+
 - Language
-  - `Object`
-  - `Function`
-  - `Boolean`
-  - `Number`
-  - `BigInt`
-  - `String`
+  - `Object`: 🎓 known
+  - `Function`: 🖐 used
+  - `Boolean`: 🎓 known
+  - `Number`: 🎓 known
+  - `BigInt`: 🎓 known
+  - `String`: 🎓 known
   - `Symbol`
   - `Infinity`
   - `NaN`
@@ -59,18 +60,18 @@
   - Private class fields
   - Private class methods
 - Statements
-  - `if`
-  - `while`
-  - `do..while`
-  - `for`
-  - `for..in`
+  - `if`: 🖐 used
+  - `while`: 🎓 known
+  - `do..while`: 🎓 known
+  - `for`: 🖐 used
+  - `for..in`: 🎓 known
   - `for..of`
   - `for await`
   - `throw`
   - `break`
   - `continue`
-  - `import`
-  - `export`
+  - `import`: 🎓 known
+  - `export`: 🎓 known
   - `label`
   - `try..catch`
   - `switch`
@@ -90,7 +91,7 @@
   - `Function.prototype.apply`
   - `return`
 - Data structures
-  - `Array`
+  - `Array`: 🎓 known
   - `Map`
   - `Set`
   - `WeakMap`

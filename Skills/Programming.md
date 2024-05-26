@@ -1,15 +1,23 @@
 ## Programming fundamental concepts
 
+: 👂 heard - Heard or have some idea
+: 🎓 known - Learned, read, but didn’t use
+: 🖐 used - Used in work or real project
+: 🙋 explained - Explained to colleagues or can freely explain
+: 📢 talked - Gave a public speech or lecture on a topic
+: 🔬 researched - Deep research, measurements, comparisons, read sources
+: 🚀 constructed - Developed an implementation or equivalent
+
 - Concepts
   - Model
   - Modeling
   - Subject domain
-  - Algorithm
+  - Algorithm: 🎓 known 
   - Syntax
   - Semantics
   - Abstraction
-  - Paradigm
-  - Programm
+  - Paradigm: 🎓 known 
+  - Programm: 🎓 known 
   - Programming paradigm
   - Programming language
   - Contract
@@ -21,7 +29,7 @@
   - Platform
   - Source code
   - Object code
-  - Machine code
+  - Machine code: 🎓 known 
   - Microcode
   - Software engineering
   - Decomposition
@@ -43,7 +51,7 @@
   - Function
   - Procedure
   - Method
-  - Class
+  - Class: 🎓 known 
   - Prototype
   - Event
   - Type
@@ -82,8 +90,8 @@
   - Contravariance
 - Functions
   - Signature
-  - Argument
-  - Parameter
+  - Argument: 🎓 known 
+  - Parameter: 🎓 known 
   - Pure function
   - Lambda expression
   - Side effects
@@ -105,7 +113,7 @@
   - Generator
   - Coroutine
 - Data structures
-  - Array
+  - Array: 🎓 known 
   - Structure
   - Record
   - Enum
