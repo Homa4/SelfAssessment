@@ -1,18 +1,10 @@
 ## Programming fundamental concepts
 
-: 👂 heard - Heard or have some idea
-: 🎓 known - Learned, read, but didn’t use
-: 🖐 used - Used in work or real project
-: 🙋 explained - Explained to colleagues or can freely explain
-: 📢 talked - Gave a public speech or lecture on a topic
-: 🔬 researched - Deep research, measurements, comparisons, read sources
-: 🚀 constructed - Developed an implementation or equivalent
-
 - Concepts
   - Model
   - Modeling
   - Subject domain
-  - Algorithm: 🎓 known 
+  - Algorithm: 🖐 used 
   - Syntax
   - Semantics
   - Abstraction
@@ -21,7 +13,7 @@
   - Programming paradigm
   - Programming language
   - Contract
-  - Module
+  - Module: 🖐 used 
   - Library
   - Package
   - Component
@@ -40,15 +32,15 @@
   - Don't repeat yourself (DRY)
   - KISS principle
 - Syntax and concepts
-  - Value
-  - Identifier
-  - Variable
-  - Constant
+  - Value: 🖐 used 
+  - Identifier: 🖐 used 
+  - Variable: 🖐 used 
+  - Constant: 🖐 used 
   - Scalar
-  - Literal
-  - Expression
-  - Heap
-  - Function
+  - Literal: 🖐 used 
+  - Expression: 🖐 used 
+  - Heap: 🖐 used 
+  - Function: 🖐 used 
   - Procedure
   - Method
   - Class: 🎓 known 
@@ -101,7 +93,7 @@
   - Higher order
   - Recursion
   - Tail call optimisation
-  - Callback
+  - Callback: 🖐 used 
   - Listener
   - Composition
   - Pipe
@@ -121,16 +113,16 @@
   - Object
   - Collection
   - Set
-  - Hash table
-  - Linked list
-  - Doubly list
-  - Unrolled list
-  - Circular list
-  - Queue
-  - Stack
+  - Hash table: 🎓 known
+  - Linked list: 🎓 known
+  - Doubly list: 🎓 known
+  - Unrolled list: 🎓 known
+  - Circular list: 🎓 known
+  - Queue: 🎓 known
+  - Stack: 🎓 known
   - Deque
-  - Tree
-  - Graph
+  - Tree: 🎓 known
+  - Graph: 🎓 known
   - Iterator
   - Mutable state
   - Immutable state
@@ -140,11 +132,11 @@
   - JSON5
   - YAML
 - Networking
-  - DNS
+  - DNS: 🎓 known
   - CDN
   - CORS
-  - IPv4
-  - IPv6
+  - IPv4: 🎓 known
+  - IPv6: 🎓 known
   - NAT
   - URL
   - URN
@@ -172,8 +164,8 @@
   - Code review
   - Exception
   - Unittesting
-  - git
-  - Github
+  - git: 🖐 used 
+  - Github: 🖐 used 
   - Docker
   - Kubernetes
   - GCC
@@ -226,7 +218,7 @@
   - Unix
   - BSD
   - MacOS
-  - Windows
+  - Windows: 🖐 used 
   - Real-time OS
   - Embedded OS
 - Standards

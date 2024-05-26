@@ -2,12 +2,12 @@
 
 
 - Language
-  - `Object`: 🎓 known
+  - `Object`: 🖐 used
   - `Function`: 🖐 used
-  - `Boolean`: 🎓 known
-  - `Number`: 🎓 known
-  - `BigInt`: 🎓 known
-  - `String`: 🎓 known
+  - `Boolean`: 🖐 used
+  - `Number`: 🖐 used
+  - `BigInt`: 🖐 used
+  - `String`: 🖐 used
   - `Symbol`
   - `Infinity`
   - `NaN`
@@ -15,9 +15,9 @@
   - `null`
   - `this`
   - `instanceof`
-  - `...spread`
-  - `...rest`
-  - `typeof`
+  - `...spread`: 🖐 used
+  - `...rest`: 🖐 used
+  - `typeof`: 🖐 used
   - Destructuring
   - Generators
   - Iterators
@@ -61,23 +61,23 @@
   - Private class methods
 - Statements
   - `if`: 🖐 used
-  - `while`: 🎓 known
+  - `while`: 🖐 used
   - `do..while`: 🎓 known
   - `for`: 🖐 used
-  - `for..in`: 🎓 known
-  - `for..of`
+  - `for..in`: 🖐 used
+  - `for..of`: 🖐 used
   - `for await`
   - `throw`
-  - `break`
+  - `break`: 🎓 known
   - `continue`
-  - `import`: 🎓 known
-  - `export`: 🎓 known
+  - `import`: 🖐 used
+  - `export`: 🖐 used
   - `label`
   - `try..catch`
-  - `switch`
-  - `class`
-  - `extends`
-  - `with`
+  - `switch`: 🎓 known
+  - `class`: 🎓 known
+  - `extends`: 🎓 known
+  - `with`: 🎓 known
   - `new`
 - Functions
   - Arrow function
@@ -91,9 +91,9 @@
   - `Function.prototype.apply`
   - `return`
 - Data structures
-  - `Array`: 🎓 known
+  - `Array`: 🖐 used
   - `Map`
-  - `Set`
+  - `Set`: 🖐 used
   - `WeakMap`
   - `WeakSet`
   - Typed arrays
@@ -102,8 +102,8 @@
 - Standard classes and namespaces
   - `Proxy`
   - `RegExp`
-  - `Date`
-  - `Math`
+  - `Date`: 🖐 used
+  - `Math`: 🖐 used
   - `Reflect`
   - `Error`
   - `Atomics`
@@ -116,7 +116,7 @@
   - Timers
 - Infrastructure
   - V8
-  - Node.js
+  - Node.js: 🎓 known
   - npm
   - prettier
   - MDN
